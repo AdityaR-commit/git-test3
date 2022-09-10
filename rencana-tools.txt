@@ -1,0 +1,3 @@
+Rencana tools tambahan yang digunakan di praktikum:
+1. Trello
+2. GIT dan GITHUB
